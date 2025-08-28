@@ -1,4 +1,4 @@
-# 🚗 Vehicle Telemetry Analytics – Semantic Model Overview
+# Vehicle Telemetry Analytics – Semantic Model Overview
 
 This Power BI solution delivers a robust and scalable semantic model paired with a powerful dashboard suite to monitor, analyze, and optimize vehicle performance, health, usage, and safety. Leveraging both real-time and historical telemetry data, this model is suitable for automotive manufacturers, fleet managers, telematics providers, and mobility platforms.
 
@@ -6,7 +6,7 @@ The foundation of this solution is a production-grade star schema, ensuring high
 
 ---
 
-## 📊 Key Capabilities
+## Key Capabilities
 
 - **Real-Time Telemetry Streaming**  
   Monitor G-force, speed, RPM, fuel level, tire pressure, battery voltage, and more in real time.
@@ -31,7 +31,7 @@ The foundation of this solution is a production-grade star schema, ensuring high
 
 ---
 
-## 🧠 Architecture & Design Highlights
+## Architecture & Design Highlights
 
 - **Star Schema Foundation**  
   Built using dimensional modeling best practices for performance and clarity.
@@ -50,7 +50,7 @@ The foundation of this solution is a production-grade star schema, ensuring high
 
 ---
 
-## 🧩 Integration Support & Streaming Data Simulation
+## Integration Support & Streaming Data Simulation
 
 - **Power BI Analytics Platform**  
   Fully compatible with the Power BI ecosystem, supporting real-time dashboards, paginated reports, and embedded analytics. The semantic model allows seamless exploration through Power BI service or Desktop, with drill-down, drill-through, and custom visuals for advanced telemetry insights.
@@ -63,7 +63,7 @@ The foundation of this solution is a production-grade star schema, ensuring high
 
 ---
 
-## 🙌 Authors & Acknowledgments
+## Authors & Acknowledgments
 
 - Vision and engineering by **Hans Esquivel**
 - Powered by **VS Professional, Python, and SQL Server**

@@ -93,7 +93,7 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 Specify your license here (e.g., MIT, Apache 2.0).
 
-## 🙌 Authors & Acknowledgments
+## Authors & Acknowledgments
 
 - Vision and engineering by **Hans Esquivel**
 - Powered by **Python**
