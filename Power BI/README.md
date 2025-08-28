@@ -1,4 +1,4 @@
-# Vehicle Telemetry Analytics – Power BI Semantic Model 
+# Vehicle Telemetry Analytics - Power BI Semantic Model 
 - v1.0 (Work in progress)
 
 ## Overview
@@ -123,7 +123,7 @@ To enable real-time data updates in Power BI, configure the Power BI page [] to 
 1. Navigate to the **Vehicle Pulse** page in Power BI Desktop.	
 	- Click on the page border to ensure the Visualization pane renders</br>
 	![Page border](../media/click_page_border.png)</br>
-	:information_source: *Ensure you have enabled the Visualization pane in Power BI Desktop. If not visible, you can enable it from the View tab.*
+	*Ensure you have enabled the Visualization pane in Power BI Desktop. If not visible, you can enable it from the View tab.*
 2. Validate the Visualization pane is active and that your see the following:</br>
 	- **Visualizations Pane**</br>
 	![Visualization pane](../media/visualizations_pane.png)
@@ -132,7 +132,7 @@ To enable real-time data updates in Power BI, configure the Power BI page [] to 
 	- Toggle the switch to **On** to enable real-time updates.
 	- Set the desired refresh interval (e.g., every 1 seconds) based on your telemetry data ingestion rate.</br>
 	![Page refresh settings](../media/refresh_page_settings.png)</br>
-	:information_source: *Once page refreshing is enabled, be sure to kick-start the VehicleTelemetryStreamGeospatial python project*
+	*Once page refreshing is enabled, be sure to kick-start the VehicleTelemetryStreamGeospatial python project*
 		
 
 ## Licensing and Compliance
